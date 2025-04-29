@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?kedster=kedster&show_icons=true&theme=transparent)](https://github.com/kedster)
+
 <!--
 **kedster/kedster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
