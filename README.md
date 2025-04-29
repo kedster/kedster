@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?kedster=kedster&show_icons=true&theme=transparent)](https://github.com/kedster)
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedster&show_icons=true&theme=transparent)](https://github.com/kedster)
 
 <!--
